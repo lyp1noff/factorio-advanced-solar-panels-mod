@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "title": "Advanced Solar Panels",
   "author": "lyp1noff",
+  "homepage": "https://github.com/lyp1noff/factorio-advanced-solar-panels-mod",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1"],
-  "description": "This mod adds tier 2-4 solar panels"
+  "description": "Tier 2-4 solar panels"
 }
