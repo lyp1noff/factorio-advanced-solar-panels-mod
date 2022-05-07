@@ -46,7 +46,7 @@ SolarPanel2.picture = {
 
 local SolarPanel3 = table.deepcopy(data.raw["solar-panel"]["solar-panel"])
 SolarPanel3.name = "solar-panel-mk3"
-SolarPanel3.production = "240kW"
+SolarPanel3.production = "360kW"
 SolarPanel3.icon = "__AdvancedSolarPanels__/graphics/icons/solar-panel-mk3.png"
 SolarPanel3.corpse = "solar-panel-mk3-remnants"
 SolarPanel3.minable = {mining_time = 0.1, result = "solar-panel-mk3"}
@@ -93,7 +93,7 @@ SolarPanel3.picture = {
 local SolarPanel4 = table.deepcopy(data.raw["solar-panel"]["solar-panel"])
 SolarPanel4.name = "solar-panel-mk4"
 
-SolarPanel4.production = "580kW"
+SolarPanel4.production = "1080kW"
 SolarPanel4.icon = "__AdvancedSolarPanels__/graphics/icons/solar-panel-mk4.png"
 SolarPanel4.corpse = "solar-panel-mk4-remnants"
 SolarPanel4.minable = {mining_time = 0.1, result = "solar-panel-mk4"}

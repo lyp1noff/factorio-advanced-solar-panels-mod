@@ -20,7 +20,7 @@ data:extend{
 	  enabled = false,
 	  ingredients =
 	  {
-	    {"solar-panel-mk2", 2},
+	    {"solar-panel-mk2", 1},
 	    {"processing-unit", 10}
 	  },
 	  result = "solar-panel-mk3"
@@ -33,7 +33,7 @@ data:extend{
 	  enabled = false,
 	  ingredients =
 	  {
-	    {"solar-panel-mk3", 2},
+	    {"solar-panel-mk3", 1},
 	    {"low-density-structure", 4},
 			{"uranium-235", 1}
 	  },
